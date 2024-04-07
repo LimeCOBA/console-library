@@ -1,0 +1,12 @@
+C:\Users\ianto\source\repos\Book\Models\bin\Debug\Models.dll
+C:\Users\ianto\source\repos\Book\Models\bin\Debug\Models.pdb
+C:\Users\ianto\source\repos\Book\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\ianto\source\repos\Book\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\ianto\source\repos\Book\Models\obj\Debug\Models.dll
+C:\Users\ianto\source\repos\Book\Models\obj\Debug\Models.pdb
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Models\bin\Debug\Models.dll
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Models\bin\Debug\Models.pdb
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Models\obj\Debug\Models.dll
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Models\obj\Debug\Models.pdb

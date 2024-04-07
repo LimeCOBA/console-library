@@ -1,0 +1,24 @@
+C:\Users\ianto\source\repos\Book\Library\bin\Debug\Library.exe.config
+C:\Users\ianto\source\repos\Book\Library\bin\Debug\Library.exe
+C:\Users\ianto\source\repos\Book\Library\bin\Debug\Library.pdb
+C:\Users\ianto\source\repos\Book\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\ianto\source\repos\Book\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ianto\source\repos\Book\Library\obj\Debug\Library.exe
+C:\Users\ianto\source\repos\Book\Library\obj\Debug\Library.pdb
+C:\Users\ianto\source\repos\Book\Library\bin\Debug\Data.dll
+C:\Users\ianto\source\repos\Book\Library\bin\Debug\Models.dll
+C:\Users\ianto\source\repos\Book\Library\bin\Debug\Data.pdb
+C:\Users\ianto\source\repos\Book\Library\bin\Debug\Models.pdb
+C:\Users\ianto\source\repos\Book\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Library\bin\Debug\Library.exe.config
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Library\bin\Debug\Library.exe
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Library\bin\Debug\Library.pdb
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Library\bin\Debug\Data.dll
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Library\bin\Debug\Models.dll
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Library\bin\Debug\Data.pdb
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Library\bin\Debug\Models.pdb
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Library\obj\Debug\Library.exe
+C:\Users\Andrew\Downloads\Telegram Desktop\Book\Book\Library\obj\Debug\Library.pdb
